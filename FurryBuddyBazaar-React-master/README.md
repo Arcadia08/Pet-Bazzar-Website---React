@@ -8,14 +8,19 @@ PetPal is a unified platform that seamlessly integrates pet adoption and pet pro
 4) Community Interaction: Connect with other pet owners, share experiences, and exchange tips and advice in a supportive community environment.
 
 # Installation
-a) Clone the repository :
-    git clone <repository-url>
-b) Navigate to the project directory :
-    cd <project-directory>
-d) Install dependencies : 
-    npm install
-e) Run the project : 
-    npm start
+1) Clone the repository :
+git clone <repository-url>
+
+2) Navigate to the project directory :
+cd <project-directory>
+
+3) Install dependencies : 
+npm install
+
+4) Run the project : 
+npm start
+
+
 
 
 
